@@ -1,4 +1,4 @@
-# Apache Airflow Tutorial
+# Apache Airflow
 
 The material was originated from [coder2](https://github.com/coder2j).
 
