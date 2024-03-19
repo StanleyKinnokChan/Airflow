@@ -1,6 +1,8 @@
-# Apache Airflow Tutorial Series [YouTube](https://www.youtube.com/watch?v=z7xyNOF8tak&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT)
+# Apache Airflow Tutorial
 
-This repository is for learning Airflow. Different from this is modified version using Apache airflow 2.8.3 in docker with local executor.
+The material was originated from [coder2](https://github.com/coder2j).
+
+This repository is for myself learning Airflow. Different from the original context, this is modified version using Apache airflow 2.8.3 in docker with local executor.
 
 Here are the steps to take to get airflow running with docker on your machine. 
 1. Clone this repo
